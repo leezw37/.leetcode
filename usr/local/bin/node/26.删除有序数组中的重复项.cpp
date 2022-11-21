@@ -74,8 +74,8 @@
 // 双指针
 // 优化——避免原地复制：添加判断q - p > 1 时才复制。
 // @lc code=start
-using namespace std;
 #include <vector>
+using namespace std;
 
 class Solution {
 public:
